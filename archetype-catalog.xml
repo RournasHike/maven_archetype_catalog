@@ -4,57 +4,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <archetypes>
     <archetype>
-      <groupId>io.github.fuzhengwei</groupId>
-      <artifactId>ddd-scaffold-lite</artifactId>
-      <version>1.1</version>
-      <description>xfg-frame-archetype</description>
-    </archetype>
-    <archetype>
-      <groupId>io.github.fuzhengwei</groupId>
-      <artifactId>ddd-scaffold-lite-v2</artifactId>
-      <version>2.1</version>
-      <description>xfg-frame-archetype</description>
-    </archetype>
-    <archetype>
-      <groupId>io.github.fuzhengwei</groupId>
-      <artifactId>ddd-scaffold-std</artifactId>
-      <version>1.0</version>
-      <description>xfg-frame-archetype-std</description>
-    </archetype>
-    <archetype>
-      <groupId>io.github.rournashike</groupId>
-      <artifactId>springboot-mvc-architype-template</artifactId>
-      <version>1.1.0</version>
-      <description>springboot-mvc-architype-template</description>
-    </archetype>
-    <archetype>
-      <groupId>io.github.rournashike</groupId>
-      <artifactId>springboot-mvc-architype-template-archetype</artifactId>
-      <version>1.2.0</version>
-      <description>springboot-mvc-architype-template-archetype</description>
-    </archetype>
-    <archetype>
-      <groupId>io.github.rournashike</groupId>
-      <artifactId>springboot-mvc-architype-template-archetype</artifactId>
-      <version>1.0.0</version>
-      <description>springboot-mvc-architype-template</description>
-    </archetype>
-    <archetype>
       <groupId>io.github.rournashike</groupId>
       <artifactId>springboot-mvc-architype-template-archetype</artifactId>
       <version>1.1.0</version>
-      <description>springboot-mvc-architype-template</description>
-    </archetype>
-    <archetype>
-      <groupId>io.github.rournashike</groupId>
-      <artifactId>springboot-mvc-architype-template-archetype</artifactId>
-      <version>1.1.0</version>
-      <description>springboot-mvc-architype-template</description>
-    </archetype>
-    <archetype>
-      <groupId>io.github.rournashike</groupId>
-      <artifactId>springboot-mvc-architype-template-archetype</artifactId>
-      <version>1.2.0</version>
       <description>springboot-mvc-architype-template</description>
     </archetype>
   </archetypes>
